@@ -1,0 +1,8 @@
+# ninja log v6
+2	407	1742488958014322706	CMakeFiles/lab16_zachrt.dir/Tests/test1.cpp.o	90aee3b8404695ae
+408	768	1742488958418325886	CMakeFiles/lab16_zachrt.dir/Tests/test2.cpp.o	5d8c27ad1e3bd025
+768	1114	1742488958778328719	CMakeFiles/lab16_zachrt.dir/Tests/test3.cpp.o	87a37b537477fdf9
+1114	1143	1742488959126331458	CMakeFiles/lab16_zachrt.dir/lab16.cpp.o	4b9d422288f7b2f7
+1143	1475	1742488959154331678	CMakeFiles/lab16_zachrt.dir/lab16Driver.cpp.o	60a6cc8b94a23bc5
+2	415	1742488984974534904	CMakeFiles/lab16_zachrt.dir/lab16Driver.cpp.o	60a6cc8b94a23bc5
+3	362	1742489017154788219	CMakeFiles/lab16_zachrt.dir/lab16Driver.cpp.o	60a6cc8b94a23bc5

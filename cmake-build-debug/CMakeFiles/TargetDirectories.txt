@@ -1,0 +1,3 @@
+/home/administrator/CLionProjects/lab16-zachrt/cmake-build-debug/CMakeFiles/lab16_zachrt.dir
+/home/administrator/CLionProjects/lab16-zachrt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/administrator/CLionProjects/lab16-zachrt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
