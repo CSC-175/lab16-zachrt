@@ -1,22 +1,17 @@
 // Code to implement the gcf function goes here
 int gcf(int a, int b)
 {
-    int smaller, highest = 1;
-    if (a > b)
+        int rem = a % b;
+
+        a = b;
+
+        b = rem;
+
+    if (b !=0)
     {
-        smaller = a;
-    } else
-    {
-        smaller = b;
+        return gcf(a,b);
     }
 
-    for (int i = highest; i <= smaller; i++) {
-        if (a% i == 0 && b % i == 0)
-        {
-            highest = i;
-        }
-    }
-
-    return highest;
+        return a;
 
 }
